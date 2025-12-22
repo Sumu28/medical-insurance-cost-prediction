@@ -1,2 +1,5 @@
-# medical-insurance-cost-prediction
-Machine learning project to predict medical insurance costs using demographic and lifestyle data. Implements regression and classification models (Linear, Decision Tree, Random Forest, Logistic Regression, Naïve Bayes) with evaluation using MAE, R², accuracy, and ROC-AUC.
+License & Data Usage
+
+This project is released under the MIT License. You are free to use, modify, and distribute the code for educational and research purposes.
+
+The dataset used in this project is the Medical Insurance Dataset from Kaggle and is subject to Kaggle’s dataset licensing terms. The dataset is used strictly for educational purposes and is not redistributed in this repository.
