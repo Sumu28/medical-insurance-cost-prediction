@@ -6,7 +6,7 @@ Insurers need to estimate how much each customer is likely to cost. This project
 
 It is the project behind the paper "A Comparative Study of Regression Models for Medical Insurance Cost Prediction in Sustainable Healthcare Systems", presented at the CCCD 2026 International Conference in Bengaluru. 
 (https://drive.google.com/file/d/1vVJKPizwWRKtu2fBugKVfj3BEyG6mHYY/view?usp=sharing)
-> Group project. Sumukha Sagar and Kavya Kumar
+> Group project. Sumukha Sagar, Kavya Kumar, Laura Pérez, Ethan Bochereau.
 
 ---
 
@@ -100,7 +100,7 @@ Python · Pandas · NumPy · scikit-learn · SciPy · Matplotlib · Seaborn · G
 
 ## Authors
 
-Sumukha Sagar, Kavya Kumar
+Sumukha Sagar, Kavya Kumar, Laura Pérez, Ethan Bochereau
 School of Computing, Dublin City University
 
 ## License
