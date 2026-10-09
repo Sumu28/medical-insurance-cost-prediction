@@ -4,8 +4,8 @@
 
 Insurers need to estimate how much each customer is likely to cost. This project takes a large insurance dataset of 100,000 people, cleans it up, and tests a range of models on two questions: *how much will someone's medical costs be?* (regression) and *which cost band, or which cost group, do they fall into?* (classification).
 
-It is the project behind the paper "A Comparative Study of Regression Models for Medical Insurance Cost Prediction in Sustainable Healthcare Systems", presented at the CCCD 2026 International Conference in Bengaluru. *(Check this is the same work, and add a link to the paper if you want to share it.)*
-
+It is the project behind the paper "A Comparative Study of Regression Models for Medical Insurance Cost Prediction in Sustainable Healthcare Systems", presented at the CCCD 2026 International Conference in Bengaluru. 
+(https://drive.google.com/file/d/1vVJKPizwWRKtu2fBugKVfj3BEyG6mHYY/view?usp=sharing)
 > Group project. Sumukha Sagar and Kavya Kumar
 
 ---
